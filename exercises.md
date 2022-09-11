@@ -1,16 +1,4 @@
-# coding exercises -- and the way dunn solves them
-
-(i'm using javascript here but i can switch to python if you'd rather)
-
-for reference:
-```
-// arrays
-someArray[0] = 'a';        // assigns the value 'a' to the first element in the array
-someArray[4];              // return the value found at position 4 in someArray. [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
-	                                                                                  //  ^4th position
-```
-
-## 1. reverse a string
+# 1. reverse a string
 
 **problem:** given a string, write a program that will reverse it and print it to standard out.
 
