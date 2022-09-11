@@ -7,7 +7,7 @@ for reference:
 // arrays
 someArray[0] = 'a';        // assigns the value 'a' to the first element in the array
 someArray[4];              // return the value found at position 4 in someArray. [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
-																																													//  ^4th position
+	                                                                                  //  ^4th position
 ```
 
 ## 1. reverse a string
